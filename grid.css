@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.flex-item{
+    height: 400px;
+    margin: 10px 20px;
+}
+
+.item-1{
+    background-color: bisque;
+}
+.item-2{
+    background-color: blue;
+}
+.item-3{
+    background-color: gold;
+}
+.item-4{
+    background-color: black;
+}
+.item-5{
+    background-color: brown;
+}
+.item-6{
+    background-color: orange;
+}
+.item-7{
+    background-color: blueviolet;
+}
+.item-8{
+    background-color: aqua;
+}
+.item-9{
+    background-color: pink;
+}
+.item-10{
+    background-color: coral;
+}
+.item-11{
+    background-color: cornflowerblue;
+}
+.item-12{
+    background-color: red;
+}
